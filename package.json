@@ -1,0 +1,16 @@
+{
+  "name": "selection-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "selectionSort.js",
+  "scripts": {
+    "start": "nodemon selectionSort.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
